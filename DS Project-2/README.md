@@ -11,7 +11,7 @@ Communication among nodes was done using sockets. Once a process sends a message
 
 ## Acknowledgements
 
-This project is developed by Divya Boggavarapu(1002086719) and Abhishek Reddy Yaramala(1002072996).
+This project is developed by Divya Boggavarapu
 
 ## Requirements
 - Java
