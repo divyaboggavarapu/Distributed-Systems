@@ -9,7 +9,7 @@ Node failure : If the transaction coordinator does not receive "yes" from a node
 
 ## Acknowledgements
 
-This project is developed by Divya Boggavarapu(1002086719) and Abhishek Reddy Yaramala(1002072996).
+This project is developed by Divya Boggavarapu.
 
 
 ## Requirements
